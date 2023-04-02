@@ -26,7 +26,7 @@ int graph[NUM_VARIABLES][NUM_VARIABLES] = {
     {1, 0, 1, 0, 0, 1, 1},
     {0, 1, 0, 0, 0, 1, 1},
     {0, 0, 0, 1, 1, 0, 1},
-    {1, 1, 0, 1, 1, 1, 0},
+    {1, 1, 1, 1, 1, 1, 0},
 };
 // Color assignments
 int colors[NUM_VARIABLES];
